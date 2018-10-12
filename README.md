@@ -1,7 +1,7 @@
 
 # Tampering JWT
 
-This code shows that validation jwt validation fails if someone tries to tamper it
+This code shows that jwt validation fails if someone tries to tamper it
 
 ## Requirements
 
